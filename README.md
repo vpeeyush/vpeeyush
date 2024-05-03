@@ -1,16 +1,18 @@
-### Hi there 👋
+<a href="https://komarev.com/ghpvc/?username=vpeeyush">
+  <img align="right" src="https://komarev.com/ghpvc/?username=vpeeyush&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-<!--
-**vpeeyush/vpeeyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://vpeeyush.github.io/portfolio/">Peeyush Varshney</a></b>
+        </samp>
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <samp>   
+    「 Full Stack Developer 🚀」
+    <br>
+    <br>
+  </samp>
+</p>
